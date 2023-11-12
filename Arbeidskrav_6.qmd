@@ -1,0 +1,340 @@
+---
+output: html_document
+editor_options: 
+  chunk_output_type: console
+---
+# Effekten av lavt versus moderat settvolum på muskelhypertrofi og maksimal styrke på utrente individer 
+
+## Introduksjon 
+
+Skjelettmuskulaturen er avgjørende for å opprettholde en sunn livsstil (Wolfe, 2006), og fremmer vedlikehold og/eller økning i muskelmasse, styrke og effekt (Heaselgrave et al., 2018). Den mest potente, ikke-farmakologiske stimulansen som induserer muskelhypertrofi og styrke er styrketrening (Heaselgrave et al., 2018). Mekanisk drag og metabolsk stress indusert av styrketrening antas å aktivere intramuskulære signalveier, noe som fører til økt proteintranslasjonseffektivitet og muskelhypertrofi over tid (Schoenfeld, 2010; Terzis et al., 2008). Selv om muskelhypertrofi kan forklare noe av økningen i styrke og effekt med styrketrening, antas nevrologiske adaptasjoner å spille en mer sentral rolle (Dankel et al., 2017). Manipulering av styrketreningsvariabler som intensitet (Wernbom et al., 2007), volum (Schoenfeld et al., 2017), frekvens (Schoenfeld et al., 2016), inter-sett pauser (McKendry et al., 2016), kontraksjonstype (Ato et al., 2016) og tid under spenning (Burd et al., 2012) kan endre den intracellulære signaleringen og muskelproteinsyntesens respons på styrketrening (Bird et al., 2005). Derfor er det viktig å forstå hvordan manipulering av styrketreningsvariabler kan maksimere muskelhypertrofi og maksimal styrke for evidensbaserte praktiske anbefalinger (Heaselgrave et al., 2018).   
+
+En styrketreningsvariabel som antas å være av spesiell betydning for å maksimere muskelhypertrofi og maksimal styrke er volum, definert som produktet av sett × repetisjoner × motstand (dvs. belastningsvolum) eller antall ukentlige sett per muskelgruppe (dvs. settvolum) (Figueiredo et al., 2018). Meta-analyser indikerer at moderat til høyt ukentlig styrketreningsvolum kan fremkalle marginalt større styrkeøkninger enn lavt ukentlig styrketreningsvolum (Grgic et al., 2018; Ralston et al., 2017). Det optimale styrketreningsvolumet for å maksimere muskelhypertrofi og styrke forblir imidlertid uklart (Heaselgrave et al., 2018). Flere potensielle sammenhenger mellom styrketreningsvolum og muskelhypertrofi og maksimal styrke har blitt postulert: (i) et dose-respons-forhold, hvor gradvis økning i ukentlig styrketreningsvolum fører til en større økning i muskelhypertrofi og maksimal styrke (Schoenfeld et al., 2017), (ii) et invertert-U-forhold, der økende ukentlig styrketreningsvolum utover en viss terskel negativt påvirker muskelhypertrofi (Figueiredo et al., 2018), (iii) ingen sammenheng mellom ukentlig styrketreningsvolum og muskelhypertrofi eller maksimal styrke (Mitchell et al., 2012; Ostrowski et al., 1997; Radaelli et al., 2014). Til dags dato har forskning ikke klart å identifisere det optimale styrketreningsvolumet per muskelgruppe for å maksimere muskelhypertrofi og maksimal styrke. Videre har den eksisterende forskningen fokusert på fysiologiske og nevrologiske adaptasjoner til relativt lavt styrketreningsvolum (≤ 10–12 ukentlige sett), og fremhever et klart behov for å undersøke dette forholdet ved høyere ukentlige styrketreningsvolum (> 10–12 ukentlige sett) (Carroll et al., 2001; Schoenfeld et al., 2017). 
+
+Mangelen på å identifisere ukentlig dose av styrketreningsvolum for å maksimere fysiologiske og nevrologiske adaptasjoner er også sannsynligvis en konsekvens av nyanser i eksperimentelle design og kontrolltiltak (Heaselgrave et al., 2018). Eksempelvis har flere tidligere studier blitt utført i små kohorter av styrketrente individer (Aube et al., 2022; Brigatto et al., 2022; Heaselgrave et al., 2018; Schoenfeld et al., 2019). Ekstrapolering av meningsfulle tolkninger fra trente til utrente individer er problematisk, ettersom utrente individer kan oppleve nevrale modifikasjoner (Carroll et al., 2001) og en utvidet muskelproteinsynteserespons på akutt styrketrening (Damas et al., 2015; Tang et al., 2008; Wilkinson et al., 2008). I tillegg har viktige kontrolltiltak som ernæringsinntak ofte blitt oversett i studier av styrketreningsvolum og muskelhypertrofi og maksimal styrke (Heaselgrave et al., 2018). For å håndtere disse manglene er det behov for strenge kontrollerte studier som undersøker forholdet mellom styrketreningsvolum og muskelhypertrofi og maksimal styrke (Heaselgrave et al., 2018). 
+
+Derfor var formålet med denne studien å undersøke effekten av lavt versus moderat settvolum på muskelhypertrofi og maksimal styrke på utrente individer. På bakgrunn av tidligere forskning på utrente (Amirthalingam et al., 2017; Radaelli et al., 2015) og trente individer (Aube et al., 2022; Brigatto et al., 2022; Heaselgrave et al., 2018; Schoenfeld et al., 2019), var vår hypotese at moderat settvolum resulterer i signifikant større økning i muskelhypertrofi og maksimal styrke enn lavt settvolum på utrente individer. 
+
+## Materialer og metoder
+
+### Studieoversikt
+Intervensjonen besto av 12 uker med styrketrening for hele kroppen. Alle deltakerne startet forsøket i løpet av september til november. Benøvelser ble utført unilateralt for å tillate differensiering av treningsvolumet innenfor hver deltaker. I henhold til dette ble de to bena til hver deltaker tilfeldig tildelt å utføre styrketreningsøvelser bestående av ett sett (lavt settvolum) og tre sett (moderat settvolum) (dvs. hver deltaker utførte begge protokollene). Muskelstyrken ble vurdert ved utgangspunkt og etter treningsintervensjonen. I tillegg ble kroppssammensetning (fettfri masse) målt før og etter treningsintervensjonen. Fra og med uke 6 utførte deltakerne en kostholdsregistrering der de veide og loggførte kostholdsinntaket i fire til fem påfølgende dager, inkludert en helgedag.
+
+### Deltakere 
+Totalt 41 mannlige og kvinnelige deltakere ble rekruttert til denne studien. Inklusjonskriteriene var (i) røykfrie og (ii) alder mellom 18 og 40 år. Eksklusjonskriterier var (i) intoleranse mot lokalbedøvelse, (ii) treningshistorikk med mer enn én ukentlig styrketreningsøkt i løpet av de siste 12 månedene før intervensjonen, (iii) nedsatt muskelstyrke på grunn av tidligere eller nåværende skade og (iv) inntak av foreskrevet medisin som kan påvirke adaptasjonene til styrketreningen. Under dataanalysene ble syv deltakere ekskludert på bakgrunn av at de ikke fullførte ≥ 85 % av de planlagte treningsøktene med årsaker som; ubehag eller smerter i underekstremiteter under trening (n = 5), skade som ikke er relatert til studien (n = 1) og manglende overholdelse av studieprotokollen (n = 1). Alle inkluderte deltakere rapporterte tidligere erfaring med idrettsaktiviteter (f.eks. lagsport, langrenn og turn). Tjue deltakere rapporterte at de var engasjert i fysisk trening på tidspunktet for påmelding (median antall økter per uke: 2, område: 0,5–4,0), hvorav 10 utførte sporadisk styrketrening, men ingen mer enn én gang per uke. Deltakernes karakteristika er presentert i Tabell 1. 
+
+#### Tabell 1: Deltakernes karateristika ved oppstart (N = 41).
+```{r}
+#| label: "laste ned datapakker"
+#| warning: false
+#| message: false
+#| echo: false
+#| output: false
+
+
+library(tidyverse)
+library(exscidata)
+library(lme4)
+library(Matrix)
+library(dplyr)
+library(ggplot2)
+library(forcats)
+```
+
+
+```{r}
+#| label: "descriptives"
+#| warning: false
+#| message: false
+#| echo: false
+
+dxadata %>%
+  filter(time == "pre") %>%
+  group_by(include, sex) %>%
+  summarize(
+    N = n(),
+    Avg_Age = round(mean(age, na.rm = TRUE), 1),
+    SD = paste0("(", round(sd(age, na.rm = TRUE), 1), ")"),
+    Avg_Height = round(mean(height, na.rm = TRUE), 1),
+    SD. = paste0("(", round(sd(height, na.rm = TRUE), 1), ")"),
+    Avg_Weight = round(mean(weight, na.rm = TRUE), 1),
+    SD.. = paste0("(", round(sd(weight, na.rm = TRUE), 1), ")")
+  ) %>%
+  knitr::kable()
+
+```
+##### Notat: Data er presentert som gjennomsnitt (standardavvik). N = antall; Avg = gjennomsnitt; SD = standardavvik; excl = ekskludert; incl = inkludert. 
+
+### Etisk godkjenning
+Alle deltakerne ble informert om potensielle risikoer og ubehag knyttet til studien og ga sitt informerte samtykke før studieregistrering. Studiedesignet ble forhåndsregistrert (ClinicalTrials.gov Identifier: NCT02179307), godkjent av den lokale etiske komiteen ved Høgskolen i Lillehammer, Institutt for idrettsvitenskap (nr. 2013-11-22:2) og alle prosedyrer ble utført i henhold til Helsinki-erklæringen. 
+
+### Styrketreningsprotokoll
+Før alle treningsøkter utførte deltakerne en standardisert oppvarmingsrutine bestående av (i) 5 min ergometersykling (Borgs skala: 12–14), etterfulgt av (ii) 10 repetisjoner hver av kroppsvektøvelse (armhevinger med individuelt tilpasset «leverage», magebøyinger, rygghev og knebøy) og (iii) ett sett med 10 repetisjoner på ~50 % av én repetisjon maksimum (1RM) for hver styrkeøvelse. Styrketreningsøvelsene for underekstremitetene ble utført i følgende rekkefølge; unilateral benpress, lårcurl og benekstensjon, utført som enten ett sett (lavt settvolum) eller tre sett (moderat settvolum) per øvelse. Lavt settvolum ble utført mellom det andre og tredje settet av protokollen for moderat settvolum. Etter øvelsene for underekstremitetene, utførte deltakerne to sett med hver av følgende øvelser; bilateral benkpress, nedtrekk og enten skulderpress eller sittende roing (utført i alternerende økter). Pausene mellom settene var på 90–180 s. Den relative motstanden ble gradvis økt gjennom intervensjonen, og startet med 10RM de første 2 ukene, etterfulgt av 8RM i 3 uker og 7RM i 7 uker. 
+
+For å tilpasse treningsprogrammet bedre til en deltakers daglige timeplan, ble noen økter utført uten tilsyn. Gjennomsnittlig antall overvåkede økter var 91 % (standardavvik [SD] = 10 %, område: 67–100 %) av utførte økter. For å overvåke økter uten tilsyn, ble deltakerne bedt om å føre detaljerte logger. Disse ble kontinuerlig kontrollert av forskerne sammen med deltakerne for å sikre progresjon og overholdelse av protokollen. Fra den niende treningsøkten hadde hver uke (inneholdt tre treningsøkter) en økt med redusert relativ motstand, tilsvarende 90 % av forrige økt med samme antall repetisjoner. Treningsøkter med maksimal innsats ble atskilt med minst 48 timer. Treningsøkter med submaksimal innsats (90 %) ble atskilt fra andre økter med minst 24 timer. For å hjelpe til med umiddelbar restitusjon ble det gitt en standardisert drink etter hver økt som inneholdt 0,15 g kg−1 protein, 1,2 g kg−1 karbohydrater og 0,5 g kg−1 fett.
+
+### Måling av muskelstyrke 
+Maksimal styrke ble vurdert som 1RM i unilateral benpress. Testøkten for hver øvelse startet med en spesifikk oppvarming bestående av 10, 6 og 3 repetisjoner på henholdsvis 50, 75 og 85 % av forventet maksimum. Deretter ble 1RM funnet ved å øke motstanden gradvis inntil vekten ikke kunne løftes gjennom hele bevegelsbanen. Deltakerne ble bedt om å skyve med maksimal innsats. For hver øvelse ble den høyeste motstanden som ble forsøkt definert som 1RM. Hver deltaker fikk fire til seks forsøk. Ved utgangspunkt ble vurdering av 1RM utført to ganger, atskilt med minst 4 dager. Den maksimale verdien oppnådd for hver test ble brukt i etterfølgende analyse. Styrketesten ble atskilt med minst 48 timer fra tidligere treningsøkter.
+
+### Kroppssammensetning (fettfri masse)
+For å undersøke endringer i muskelmasse før og etter treningsintervensjonen, ble kroppssammensetning (fettfrimasse) vurdert ved hjelp av dual-energy X-ray absorptiometry (DXA) (Lunar Prodigy, GE Healthcare, Oslo, Norge), i henhold til standard protokoll. Før DXA-målingene ble deltakerne bedt om å faste i 2 timer og avstå fra anstrengende fysisk aktivitet i 48 timer. To dager skilte den siste styrketestøkten fra målingen av kroppssammensetning.  
+
+### Statistiske analyser
+All deskriptiv data er presenteres som gjennomsnitt ± SD, med mindre annet er angitt. For å undersøke effekten av lavt versus moderat settvolum på muskelhypertrofi og maksimal styrke, ble det utført en lineær regresjonsanalyse. Resultatene ble presenterte som estimat, standardfeil (SE) t-verdi, konfidensintervall (KI), p-verdi og prosent. Nivået av statistisk signifikans ble satt til α = 0,05. All dataanalyse ble gjort i R (R Core Team, 2023). 
+
+## Resultater
+
+Overholdelse av protokollen var 96 ± 5 % av de foreskrevne 31 øktene (område: 81–100 %). Totalt sett resulterte 12 uker med styrketrening i 193 g (2,25 %) økning i fettfri masse og i 92,3 kg (55,14%) økning i maksimal styrke. Dette var innenfor forventet rekkevidde av treningsinduserte endringer (Ahtiainen et al., 2016). Gruppen med moderat settvolum økte 123 g (73,9 %) mer i fettfri masse enn gruppen med lavt settvolum (SE = 56,14, t = 2,19, 95 % KI: 8,6–237,0, p = 0,036, Figur 1). I tillegg økte gruppen med moderat settvolum 7,82 kg (12,5 %) mer i maksimal styrke enn gruppen med lavt settvolum (SE = 3,31, t = 2,36, 95 % KI: 1,1–14,6, p = 0,025, Figur 2).    
+
+```{r}
+#| label: "Load packages and dataa"
+#| warning: false
+#| message: false
+#| echo: false
+#| output: false
+
+leanmass <- dxadata %>%
+  select(participant:include, lean.left_leg, lean.right_leg) %>%
+  pivot_longer(names_to = "leg", 
+               values_to = "lean.mass", 
+               cols = lean.left_leg:lean.right_leg) %>%
+  mutate(leg = if_else(leg == "lean.left_leg", "L", "R"), 
+         sets = if_else(multiple == leg, "multiple", "single")) %>%
+  select(participant, time, sex, include, sets, leg, lean.mass) %>%
+  filter(include == "incl")
+
+# Create a wide data set of change scores per volume condition
+# suitable for a lm
+leanmass_change_wide <- leanmass %>%
+  pivot_wider(names_from = time, values_from = lean.mass) %>%
+  mutate(change = post - pre) %>%
+  select(participant, sex, sets, change) %>%
+  pivot_wider(names_from = sets, 
+              values_from = change) %>%
+  mutate(diff = multiple - single)
+
+## The same model but with lm
+m1 <- lm(diff ~ 1, data = leanmass_change_wide)
+
+summary(m1)
+
+# Save all elements of inline results
+m1pval <- round(coef(summary(m1))[1, 4], 3)
+m1est <- round(coef(summary(m1))[1, 1], 1)
+
+m1ciu <- round(confint(m1)[1,2], 1)
+m1cil <- round(confint(m1)[1,1], 1)
+
+# Combine into an object
+m1results <- paste0(m1est, 
+                    ", 95% CI: [",
+                    m1cil, 
+                    ", ",
+                    m1ciu, 
+                    "], p = ",
+                    m1pval
+                    )
+```
+
+
+```{r}
+#| label: "Figur 1"
+#| warning: false
+#| message: false
+#| echo: false
+leanmass %>%
+  filter(sets %in% c("single", "multiple") & (time %in% c("pre", "post"))) %>%
+  group_by(sets, participant, time) %>%
+  summarize(avg_lean_mass = mean(lean.mass)) %>%
+  ggplot(aes(x = factor(time, levels = c("pre", "post")), y = avg_lean_mass, group = sets, color = sets)) +
+  geom_line(aes(group = interaction(sets, participant), color = sets)) +
+  stat_summary(aes(group = 1), fun = mean, geom = "line", linetype = "dashed", size = 1.5) +
+  geom_text(aes(x = 0.5, y = max(avg_lean_mass, na.rm = TRUE), label = "*"), 
+            color = "red", size = 6, vjust = -0.5, hjust = 0.5) +  
+  facet_wrap(~ sets, scales = "free") +
+  theme_minimal() +
+  labs(
+    title = "fettfri masse",
+    x = "Tidspunkt",
+    y = "Antall gram"
+  ) +
+  theme(legend.position = "top")
+
+```
+##### Figur 1: Endringer i fettfri masse ved lavt versus moderat settvolum i løpet av en styrketreningsintervensjon på 12 uker (N = 34). Notat: Stipplet linje = gjennomsnittlig respons; sammenhengende linje = individuelle responser.
+
+
+
+```{r}
+#| label: "Load packages and data"
+#| warning: false
+#| message: false
+#| echo: false
+#| output: false
+## Time points in strength data set
+
+strengthvolume %>%
+  distinct(exercise)
+
+## Exploratory plot of strength data 
+str_beinpress <- strengthvolume %>%
+  filter(exercise == "legpress",
+         include == "incl",
+         !is.na(load)) %>% 
+  mutate(time = factor(time, levels = c("pre", "post")),
+         sets = factor(sets, levels = c("single", "multiple"))) %>%
+  na.omit()
+
+benpress_m2 <- str_beinpress %>%
+  pivot_wider(names_from = time, values_from = load) %>%
+  mutate(change = post - pre) %>%
+  select(participant, sex, sets, change) %>%
+  pivot_wider(names_from = sets, 
+              values_from = change) %>%
+  mutate(diff = multiple - single) %>%
+  drop_na()
+
+# Beregn gjennomsnittet for 'single'
+avg_single <- mean(benpress_m2$single, na.rm = TRUE)
+
+# Beregn gjennomsnittet for 'multiple'
+avg_multiple <- mean(benpress_m2$multiple, na.rm = TRUE)
+
+# Beregn gjennomsnittet for snittet mellom 'single' og 'multiple'
+avg_diff <- mean(benpress_m2$diff, na.rm = TRUE)
+
+
+#NY KODE FOR Å FINNE PROSENTVIS ENDRING I 1 RM BEINPRESS
+str <- strengthvolume %>%
+  filter(exercise == "legpress", include == "incl") %>%
+  mutate(time = factor(time, levels = c("pre", "session1", "week2", "week5", "week9", "post"))) %>%
+  filter(!is.na(load))
+
+# Create a separate data frame for multiple sets
+str_multiple <- str %>%
+  filter(sets != "single")
+
+# Create a separate data frame for single sets
+str_single <- str %>%
+  filter(sets == "single")
+
+avg_percent_increase <- str_single %>%
+  group_by(sets = "single") %>%
+  summarize(avg_percent_increase = round(((mean(load[time == "post"]) - mean(load[time == "pre"])) / mean(load[time == "pre"])) * 100, 1))
+
+avg_percent_increase_multiple <- str_multiple %>%
+  group_by(sets) %>%
+  summarize(avg_percent_increase = round(((mean(load[time == "post"]) - mean(load[time == "pre"])) / mean(load[time == "pre"])) * 100, 1))
+
+avg_percent_increase_table <- bind_rows(
+  avg_percent_increase,
+  avg_percent_increase_multiple
+)
+
+percent_difference <- avg_percent_increase_table %>%
+  spread(sets, avg_percent_increase) %>%
+  mutate(percent_difference = round(((multiple - single) / single) * 100, 1)) %>%
+  gather(key = "sets", value = "avg_percent_increase", -percent_difference) %>%
+  select(sets, avg_percent_increase, percent_difference) %>%
+  arrange(desc(percent_difference))
+
+print(percent_difference)
+
+#Tilpasse beinpress-datasettet så det kan brukes i en lineær modell
+benpress_m2 <- str_beinpress %>%
+  pivot_wider(names_from = time, values_from = load) %>%
+  mutate(change = post - pre) %>%
+  select(participant, sex, sets, change) %>%
+  pivot_wider(names_from = sets, 
+              values_from = change) %>%
+  mutate(diff = multiple - single) %>%
+  drop_na()
+
+m2 <- lm(diff ~ 1, data = benpress_m2)
+
+summary(m2)
+
+
+m2pval <- round(coef(summary(m2))[1, 4], 3)
+m2est <- round(coef(summary(m2))[1, 1], 1)
+
+m2ciu <- round(confint(m2)[1,2], 1)
+m2cil <- round(confint(m2)[1,1], 1)
+
+m2results <- paste0(m2est, 
+                    ", 95% CI: [",
+                    m2cil, 
+                    ", ",
+                    m2ciu, 
+                    "], p = ",
+                    m2pval
+                    )
+```
+
+
+```{r}
+#| label: "Figur 2"
+#| warning: false
+#| message: false
+#| echo: false
+
+str_beinpress %>%
+  filter(exercise == "legpress" & (time == "pre" | time == "post")) %>%
+  group_by(sets, participant, exercise, time) %>%
+  summarize(avg_load = mean(load)) %>%
+  ggplot(aes(x = time, y = avg_load, group = sets, color = sets)) +
+  geom_line() +
+  facet_wrap(~ exercise, scales = "free") +
+  theme_minimal() +  # Endre tema for en enklere stil
+  labs(title = "1RM beinpress",
+       x = "Tidspunkt",
+       y = "Antall kg")
+
+```
+##### Figur 2: Endringer i maksimal styrke ved lavt versus moderat settvolum i løpet av en styrketreningsintervensjon på 12 uker (N = 34). Notat: Diagonale linjer = gjennomsnittlig respons; vertikale linjer = minimums- til maksimumsverdi.
+
+## Diskusjon
+
+Hensikten med denne studien var å undersøke effekten av lavt versus moderat settvolum på muskelhypertrofi og maksimal styrke på utrente individer. I samsvar med vår hypotese, fant vi at styrketrening med moderat settvolum resulterte i signifikant større økning i muskelhypertrofi og maksimal styrke enn lavt settvolum på utrente individer. Dette er i tråd med resultatene fra tidligere meta-analyser som konkluderte til fordel moderat, sammenlignet med lavt, settvolum for muskelhypertrofi og maksimal styrke (Krieger, 2009, 2010; Schoenfeld et al., 2017).
+
+Fra et mekanistisk perspektiv, selv om en rekke akutte studier har rapportert assosiasjoner mellom mTORC1-mediert signalering av muskelproteinsyntese og styrketreningsvolum ved ~9 ukentlige sett (Burd et al., 2012; Terzis et al., 2010), er det evidens på et platå i dette forholdet ved høyere styrketreningsvolum (dvs. ~24 ukentlige sett). Eksempelvis observerte   Tibana et al. (2017) en nedregulering i ekspresjonen av en rekke essensielle proteiner implisert i muskelproteinsyntesen etter 24 versus 12 ukentlige sett per muskelgruppe hos gnagere. I studien vår gjennomførte deltakerne i gruppen med moderat styrketreningsvolum 12–18 ukentlige sett per muskelgruppe, noe som faller over den antatte grense for optimal oppregulering mTORC1-mediert signalering av muskelproteinsyntese (dvs. ~9 ukentlige sett), samt under den antatte grensen for nedregulering i ekspresjonen av en rekke essensielle proteiner implisert i muskelproteinsyntesen (dvs. ~24 ukentlige sett).
+
+Imidlertid utførte deltakerne i gruppen med lavt styrketreningsvolum kun 4–6 ukentlige sett per muskelgruppe, noe som potensielt ikke har vært høyt nok treningsvolum til å indusere optimal oppregulering mTORC1-mediert signalering av muskelproteinsyntese. Dette kan muligens forklare hvorfor gruppen med moderat styrketreningsvolum oppnådde signifikant større økninger i muskelhypertrofi og maksimal styrke, sammenlignet med gruppen med lavt styrketreningsvolum, etter styrketreningsperioden på 12 uker. Denne hypotesen er imidlertid gitt at vi kan ekstrapolere funnene fra gnagere til utrente mennesker. Hvorvidt en lignende respons forekommer hos mennesker er til dags dato uklart, da det ikke har blitt gjort noen dirkete studier, så vidt vi vet, som har undersøkt molekylær signalering eller muskelproteinsynteserespons på svært høye styrketreningsvolumer hos mennesker (Heaselgrave et al., 2018). 
+
+Funnene våre samsvarer i imidlertid ikke med enkelte studier på styrketrente individer. Eksempelvis observerte Heaselgrave et al. (2018) ingen forskjell i muskelhypertrofi mellom moderat versus lavt styrketreningsvolum på styrketrente individer. En mulig forklaring på dette kan være at treningsstatus endrer den den akutte mTORC1/muskelproteinresponsen til styrketrening (Gonzalez et al., 2015; Kim et al., 2005), noe som kan føre til at trente individer respondere ulikt på styrketreningsvolum enn utrente. Derimot observerte Heaselgrave et al. (2018) at moderat styrketreningsvolum potensielt var mer effektivt et lavt styrketreningsvolum for maksimal styrke, selv om forskjellen ikke nådde statistiske signifikans. Dette samsvarer i høyere grad med funnene våre, og kan indikere at treningsstatus må vurderes når man kommer med praktiske anbefalinger angående settvolum for å maksimere muskelhypertrofi. Videre impliserer dette at treningsstatus trolig er av mindre betydning angående settvolum for å maksimere maksimal styrke. Imidlertid bør resultater fra enkeltstudier med begrenset utvalgsstørrelse og varighet tolkes med forsiktighet. Fremtidige meta-analyser bør derfor undersøke hvordan effekten av moderat versus lavt settvolum differensierer mellom trente og utrente på muskelhypertrofi og maksimal styrke.
+
+
+## Konklusjon
+
+Denne studien demonstrerer at styrketrening med moderat settvolum resulterte i signifikant større økning muskelhypertrofi og maksimal styrke enn lavt settvolum på utrente individer. Resultatene bør imidlertid tolkes med forsiktighet, da studien hadde begrenset utvalgsstørrelse og varighet. 
+
+## Referanseliste
+
+Ahtiainen, J. P., Walker, S., Peltonen, H., Holviala, J., Sillanpää, E., Karavirta, L., Sallinen, J., Mikkola, J., Valkeinen, H., Mero, A., Hulmi, J. J., & Häkkinen, K. (2016). Heterogeneity in resistance training-induced muscle strength and mass responses in men and women of different ages. Age, 38(1), 10. https://doi.org/10.1007/s11357-015-9870-1
+Ato, S., Makanae, Y., Kido, K., & Fujita, S. (2016). Contraction mode itself does not determine the level of mTORC1 activity in rat skeletal muscle. Physiological Reports, 4(19), e12976. https://doi.org/10.14814/phy2.12976
+Burd, N. A., Mitchell, C. J., Churchward-Venne, T. A., & Phillips, S. M. (2012). Bigger weights may not beget bigger muscles: Evidence from acute muscle protein synthetic responses after resistance exercise. Applied Physiology, Nutrition, and Metabolism = Physiologie Appliquee, Nutrition Et Metabolisme, 37(3), 551–554. https://doi.org/10.1139/h2012-022
+Carroll Tj, Riek S, & Carson Rg. (2001). Neural adaptations to resistance training: Implications for movement control. Sports Medicine (Auckland, N.Z.), 31(12). https://doi.org/10.2165/00007256-200131120-00001
+Damas F, Phillips S, Vechin Fc, & Ugrinowitsch C. (2015). A review of resistance training-induced changes in skeletal muscle protein synthesis and their contribution to hypertrophy. Sports Medicine (Auckland, N.Z.), 45(6). https://doi.org/10.1007/s40279-015-0320-0
+Dankel, S. J., Counts, B. R., Barnett, B. E., Buckner, S. L., Abe, T., & Loenneke, J. P. (2017). Muscle adaptations following 21 consecutive days of strength test familiarization compared with traditional training. Muscle & Nerve, 56(2), 307–314. https://doi.org/10.1002/mus.25488
+Figueiredo Vc, de Salles Bf, & Trajano Gs. (2018). Volume for Muscle Hypertrophy and Health Outcomes: The Most Effective Variable in Resistance Training. Sports Medicine (Auckland, N.Z.), 48(3). https://doi.org/10.1007/s40279-017-0793-0
+Gonzalez, A. M., Hoffman, J. R., Townsend, J. R., Jajtner, A. R., Wells, A. J., Beyer, K. S., Willoughby, D. S., Oliveira, L. P., Fukuda, D. H., Fragala, M. S., & Stout, J. R. (2015). Association between myosin heavy chain protein isoforms and intramuscular anabolic signaling following resistance exercise in trained men. Physiological Reports, 3(1), e12268. https://doi.org/10.14814/phy2.12268
+Grgic J, Schoenfeld Bj, Davies Tb, Lazinica B, Krieger Jw, & Pedisic Z. (2018). Effect of Resistance Training Frequency on Gains in Muscular Strength: A Systematic Review and Meta-Analysis. Sports Medicine (Auckland, N.Z.), 48(5). https://doi.org/10.1007/s40279-018-0872-x
+Heaselgrave, S., Mckendry, J., & Smeuninx, B. (2018). Dose-Response of Weekly Resistance Training Volume and Frequency on Muscular Adaptations in Trained Males.
+Kim, P. L., Staron, R. S., & Phillips, S. M. (2005). Fasted-state skeletal muscle protein synthesis after resistance exercise is altered with training. The Journal of Physiology, 568(Pt 1), 283–290. https://doi.org/10.1113/jphysiol.2005.093708
+Krieger, J. W. (2009). Single versus multiple sets of resistance exercise: A meta-regression. Journal of Strength and Conditioning Research, 23(6), 1890–1901. https://doi.org/10.1519/JSC.0b013e3181b370be
+Krieger, J. W. (2010). Single vs. multiple sets of resistance exercise for muscle hypertrophy: A meta-analysis. Journal of Strength and Conditioning Research, 24(4), 1150–1159. https://doi.org/10.1519/JSC.0b013e3181d4d436
+McKendry, J., Pérez-López, A., McLeod, M., Luo, D., Dent, J. R., Smeuninx, B., Yu, J., Taylor, A. E., Philp, A., & Breen, L. (2016). Short inter-set rest blunts resistance exercise-induced increases in myofibrillar protein synthesis and intracellular signalling in young males. Experimental Physiology, 101(7), 866–882. https://doi.org/10.1113/EP085647
+Mitchell, C. J., Churchward-Venne, T. A., West, D. W. D., Burd, N. A., Breen, L., Baker, S. K., & Phillips, S. M. (2012). Resistance exercise load does not determine training-mediated hypertrophic gains in young men. Journal of Applied Physiology, 113(1), 71. https://doi.org/10.1152/japplphysiol.00307.2012
+Ostrowski, K. J., Wilson, G. J., Weatherby, R., Murphy, P. W., & Lyttle, A. D. (1997). The Effect of Weight Training Volume on Hormonal Output and Muscular Size and Function. The Journal of Strength and Conditioning Research, 11(3), 148. https://doi.org/10.1519/1533-4287(1997)011<0148:TEOWTV>2.3.CO;2
+Radaelli R, Botton Ce, Wilhelm En, Bottaro M, Brown Le, Lacerda F, Gaya A, Moraes K, Peruzzolo A, & Pinto Rs. (2014). Time course of low- and high-volume strength training on neuromuscular adaptations and muscle quality in older women. Age (Dordrecht, Netherlands), 36(2). https://doi.org/10.1007/s11357-013-9611-2
+Ralston Gw, Kilgore L, Wyatt Fb, & Baker Js. (2017). The Effect of Weekly Set Volume on Strength Gain: A Meta-Analysis. Sports Medicine (Auckland, N.Z.), 47(12). https://doi.org/10.1007/s40279-017-0762-7
+Schoenfeld, B. J. (2010). The mechanisms of muscle hypertrophy and their application to resistance training. Journal of Strength and Conditioning Research, 24(10), 2857–2872. https://doi.org/10.1519/JSC.0b013e3181e840f3
+Schoenfeld, B. J., Ogborn, D., & Krieger, J. W. (2016). Effects of Resistance Training Frequency on Measures of Muscle Hypertrophy: A Systematic Review and Meta-Analysis. Sports Medicine (Auckland, N.Z.), 46(11), 1689–1697. https://doi.org/10.1007/s40279-016-0543-8
+Schoenfeld, B. J., Ogborn, D., & Krieger, J. W. (2017). Dose-response relationship between weekly resistance training volume and increases in muscle mass: A systematic review and meta-analysis. Journal of Sports Sciences, 35(11), 1073–1082. https://doi.org/10.1080/02640414.2016.1210197
+Tang Je, Perco Jg, Moore Dr, Wilkinson Sb, & Phillips Sm. (2008). Resistance training alters the response of fed state mixed muscle protein synthesis in young men. American Journal of Physiology. Regulatory, Integrative and Comparative Physiology, 294(1). https://doi.org/10.1152/ajpregu.00636.2007
+Terzis, G., Georgiadis, G., Stratakos, G., Vogiatzis, I., Kavouras, S., Manta, P., Mascher, H., & Blomstrand, E. (2008). Resistance exercise-induced increase in muscle mass correlates with p70S6 kinase phosphorylation in human subjects. European Journal of Applied Physiology, 102(2), 145–152. https://doi.org/10.1007/s00421-007-0564-y
+Terzis, G., Spengos, K., Mascher, H., Georgiadis, G., Manta, P., & Blomstrand, E. (2010). The degree of p70 S6k and S6 phosphorylation in human skeletal muscle in response to resistance exercise depends on the training volume. European Journal of Applied Physiology, 110(4), 835–843. https://doi.org/10.1007/s00421-010-1527-2
+Wernbom, M., Augustsson, J., & Thomeé, R. (2007). The influence of frequency, intensity, volume and mode of strength training on whole muscle cross-sectional area in humans. Sports Medicine (Auckland, N.Z.), 37(3), 225–264. https://doi.org/10.2165/00007256-200737030-00004
+Wilkinson, S. B., Phillips, S. M., Atherton, P. J., Patel, R., Yarasheski, K. E., Tarnopolsky, M. A., & Rennie, M. J. (2008). Differential effects of resistance and endurance exercise in the fed state on signalling molecule phosphorylation and protein synthesis in human muscle. The Journal of Physiology, 586(Pt 15), 3701. https://doi.org/10.1113/jphysiol.2008.153916
+Wolfe, R. (2006). The underappreciated role of muscle in health and disease. The American journal of clinical nutrition, 84, 475–482. https://doi.org/10.1093/ajcn/84.3.475
+
